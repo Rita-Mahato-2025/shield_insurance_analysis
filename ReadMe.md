@@ -3,7 +3,7 @@
 ### 🧩 Domain: Insurance
 End-to-End Power BI Project | Dimensional Modeling | Customer Demographics | Age Group Insights
 
-**Live Dashboard:** [Click here]()
+**Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiM2M2NWE2NzctMjBmMi00ZWIxLWIyNTItNGFlNWMxOTljMWMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 

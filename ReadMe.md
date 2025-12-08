@@ -129,6 +129,35 @@ The project follows a clean Ask → Prepare → Process → Analyze → Share li
 
 •	Revenue by sales mode
 
+### 📷 Dashboard Preview 
+
+![Dashboard Preview](dashboard/sales_mode_analysis.png)
+
+### 🔍 Key Metrics
+
+Total Revenue: ₹989.25M
+
+Total Customers: 27K
+
+Avg Revenue per Customer: ₹36.86K
+
+Avg Premium per Policy: ₹109.92M
+
+Avg Settlement Rate: 61.89%
+
+### 🔎 Insights
+
+This page helps us understand how customers bought policies across channels.
+
+•	We see that offline-agent sales contribute the majority share (56%), indicating strong dependence on agent-driven acquisition.
+
+•	Online-app and website channels are emerging but relatively lower, highlighting digital adoption potential.
+
+•	Revenue trend month-wise shows steady growth with a seasonal spike around March.
+
+### 💡 Recommendations
+Create online systems so customers can sign up themselves, and mix agent support with digital onboarding tools, so getting a new customer becomes cheaper.
+
 ### 2️⃣ Customer Demographics
 
 •	Customer distribution by city
@@ -138,6 +167,30 @@ The project follows a clean Ask → Prepare → Process → Analyze → Share li
 •	Age group segmentation
 
 •	Growth insights
+
+### 📷 Dashboard Preview 
+
+![Dashboard Preview](dashboard/customer_demographics.png)
+
+### 🔎 Insights
+
+This dashboard gives a consolidated view of the insurance business, showing revenue, customer count, premium details and settlement percentages.
+It helps us understand not just how many customers we have, but also who they are and how they interact with insurance products.
+
+•	31–40 is the dominant customer segment
+•	Delhi NCR, Mumbai, Hyderabad are the strongest sales regions
+•	March sees the highest customer activity
+•	Settlement success is highest among middle-aged groups
+•	Youth (18–24) and seniors (65+) show lower engagement/settlement performance
+•	Revenue and customer growth trend is positive month-to-month.
+
+### 💡 Recommendations
+1.	Increase marketing focus on 31–50 age group, the most profitable customer cluster.
+2.	Create awareness plans or financial-friendly plans for 18–24 age group to attract young buyers.
+3.	Improve support & claim experience for 65+ customers, boosting trust.
+4.	Expand market campaigns in Delhi NCR, Mumbai, Hyderabad, while increasing outreach in Chennai and Indore.
+5.	Since March peaks strongly, pre-March promotional campaigns can help boost conversions further."
+
 
 ### 3️⃣ Age Group Analysis
 
@@ -150,6 +203,38 @@ The project follows a clean Ask → Prepare → Process → Analyze → Share li
 •	Sales mode preference per age segment
 
 •	Expected settlement % (standalone insight)
+
+### 📷 Dashboard Preview 
+
+![Dashboard Preview](dashboard/age_grp_analysis.png)
+
+### 🔎 Insights
+
+Customer & Revenue Insights
+
+•	The 31–40 age group dominates with the highest number of customers and revenue, making it our core segment.
+
+•	Revenue contribution order:
+31–40 > 41–50 > 65+ > 51–65 > 25–30 > 18–24
+
+•	Interestingly, though 65+ has lower customer count, it shows one of the highest settlement percentages, indicating a greater claim need in senior customers.
+
+•	The 18–24 segment is the weakest, both in customer count, revenue, and settlement.
+
+Policy Preference
+
+•	Policy variation is widely distributed, but 31–40 & 41–50 age groups show diverse adoption across multiple plans, suggesting strong demand adaptability.
+
+•	Younger customers (<30) buy fewer policies, indicating low engagement and lesser insurance awareness.
+
+### 💡 Recommendations
+1.	Focus marketing & cross-sell campaigns on 31–50 age groups, our strongest revenue generators.
+2.	Create special premium plans for 65+, with medical benefits, given high settlement usage.
+3.	Launch student/first-jobber low-cost starter policies to attract 18–30 segment customers.
+4.	Improve claim settlement process to increase trust and overall customer satisfaction.
+   
+With these strategies, we can improve acquisition in low-performing segments and enhance profitability of high-contributing age groups.
+
 
 ## 🧮 Important DAX Measures
 

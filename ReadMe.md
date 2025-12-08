@@ -158,13 +158,9 @@ This page helps us understand how customers bought policies across channels.
 ### 💡 Recommendations
 
 1.	Ramp digital onboarding programs, offer online discounts/cashback.
-2.	
-3.	Design self-service insurance purchase journey.
-4.	
-5.	Add chatbot-assisted claim + renewal workflow.
-6.	
-7.	Use agent network for high-ticket policies, online for volume.
-
+2.	Design self-service insurance purchase journey.
+3.	Add chatbot-assisted claim + renewal workflow.
+4.	Use agent network for high-ticket policies, online for volume.
 
 ### 2️⃣ Customer Demographics
 

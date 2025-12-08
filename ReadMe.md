@@ -210,7 +210,7 @@ It helps us understand not just how many customers we have, but also who they ar
 
 ### 🔎 Insights
 
-Customer & Revenue Insights
+#### Customer & Revenue Insights
 
 •	The 31–40 age group dominates with the highest number of customers and revenue, making it our core segment.
 
@@ -221,7 +221,7 @@ Customer & Revenue Insights
 
 •	The 18–24 segment is the weakest, both in customer count, revenue, and settlement.
 
-Policy Preference
+#### Policy Preference
 
 •	Policy variation is widely distributed, but 31–40 & 41–50 age groups show diverse adoption across multiple plans, suggesting strong demand adaptability.
 

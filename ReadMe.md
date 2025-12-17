@@ -78,7 +78,7 @@ The project follows a clean Ask → Prepare → Process → Analyze → Share li
 
 ### 📷 Dashboard Preview 
 
-![Dashboard Preview](dashboard/general_view_rev_trend.png)
+![Dashboard Preview](dashboard/general_view_customer_trend.png)
 
 ### 🔍 Key Metrics
 

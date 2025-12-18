@@ -1,4 +1,4 @@
-![Logo](images/Shield_Insurance.png)
+![Logo](images/shield_insurance_logo.png)
 # Insurance Policy Sales & Settlement Analysis
 ### 🧩 Domain: Insurance
 End-to-End Power BI Project | Dimensional Modeling | Customer Demographics | Age Group Insights

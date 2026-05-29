@@ -1,4 +1,5 @@
-![Logo](images/shield_insurance_logo.png)
+<img src="https://github.com/rita-mahato-2025/shield_insurance_analysis/raw/main/images/shield_insurance_logo.png" width="200" alt="Logo">
+
 # Insurance Policy Sales & Settlement Analysis
 ### 🧩 Domain: Insurance
 End-to-End Power BI Project | Dimensional Modeling | Customer Demographics | Age Group Insights
